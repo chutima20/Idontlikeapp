@@ -50,7 +50,7 @@ function TabA({navigation}) {
   return (
     <View style={{ flex: 1, justifyContent: 'center',  alignItems: 'center' }}>
       <Text>
-        Welcome To Home
+        ยินดีต้อนรับสู่หน้าหลักจ้าว
       </Text>
     </View>
   );
@@ -61,7 +61,7 @@ function TabB({navigation}) {
   return (
     <View style={{ flex: 1, justifyContent: 'center',  alignItems: 'center' }}>
       <Text>
-      Welcome To About
+      ยินดีต้อนรับสู่หน้าข้อมูลเกี่ยวกับแอบจ้าว
       </Text>
     </View>
   );
@@ -71,7 +71,7 @@ function TabC({navigation}) {
   return (
     <View style={{ flex: 1, justifyContent: 'center',  alignItems: 'center' }}>
       <Text>
-      Welcome To Service
+      ยินดีต้อนรับสู่หน้าบริการจ้าว
       </Text>
     </View>
   );
@@ -81,7 +81,7 @@ function TabD({navigation}) {
   return (
     <View style={{ flex: 1, justifyContent: 'center',  alignItems: 'center' }}>
       <Text>
-        Welcome To Contact
+        ยินดีต้อนรับสู่หน้าการติดต่อของเราจ้าว
       </Text>
     </View>
   );
